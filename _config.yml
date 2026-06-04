@@ -32,8 +32,6 @@ avatar: /assets/img/Neptunian_Family.png
 
 # Build settings
 theme: jekyll-theme-chirpy
-plugins:
-  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
