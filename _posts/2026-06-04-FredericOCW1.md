@@ -24,13 +24,13 @@ It does so in order to fully explore the implications of what our concepts about
 
 So, to a certain extent, the spirit of theoretical physics can be cast into the words of Wittgenstein who said: “What we cannot speak about [clearly] we must pass
 over in silence.”  
-> 그래서 어느 정도는, 이론 물리학의 영혼은 비트겐 슈타인의 발언("우리가 명료하게 말할 수 없는 것에 대해 침묵해야 한다.")에 갇혀있다.
+> 그래서 어느 정도는, 이론 물리학의 영혼은 비트겐 슈타인의 발언 *("우리가 명료하게 말할 수 없는 것에 대해 침묵해야 한다.")*에 갇혀있다.
 
 Indeed, if we have concepts about the real world and it is not possible to cast them into rigorous mathematical form, that is usually an indicator that some aspects of these concepts have not been well understood.  
-> 실제로, 우리가 현실 세계에 대한 개념들을 가지고 있으나 엄격한 수학적 형싱에 그것을 가두는 것이 가능하지 않다면, 보통 그것은 이 개념들의 어떠한 측면이 사실은 잘 이해되지 않고 있음을 지시한다.
+> 실제로, 우리가 현실 세계에 대한 개념들을 가지고 있으나 엄격한 수학적 형식에 그것을 가두는 것이 가능하지 않다면, 보통 그것은 이 개념들의 어떠한 측면이 사실은 잘 이해되지 않고 있음을 지시한다.
 
 Theoretical physical aims at casting these concepts into mathematical language.  
-> 이론 물리학은 이 개념들을 수학의 언에 안에 가두는 것을 목표로 한다.
+> 이론 물리학은 이 개념들을 수학의 언어 안에 가두는 것을 목표로 한다.
 
 But then, mathematics is just that: it is just a language.  
 > 그렇기는 하지만, 수학은 단지 언어일 뿐이기도 하다.
@@ -46,7 +46,7 @@ That is where it gets difficult.
 
 But then, again, mathematics is just a language and, going back to Wittgenstein, he said: “The theorems of mathematics all say the same. Namely, nothing.”
 What did he mean by that?  
-> 다시, 그렇긴 하지만, 수학은 그저 언어일 뿐이고, 비트겐슈타인의 발언("수학의 정리들은 전부 같은 것을 말한다. 다시말해 다른 것이 아니다.")으로 돌아가서, 그가 말하고자 하는 바는 무엇이었을까?
+> 다시, 그렇긴 하지만, 수학은 그저 언어일 뿐이고, 비트겐슈타인의 발언 *("수학의 정리들은 전부 같은 것을 말한다. 다시말해 다른 것이 아니다.")*으로 돌아가서, 그가 말하고자 하는 바는 무엇이었을까?
 
 Well, obviously, he did not mean that mathematics is useless.  
 > 명백하게도, 그가 수학이 쓸모없음을 말하고자 하지는 않았을 것이다.
