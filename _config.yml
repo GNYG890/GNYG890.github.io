@@ -16,7 +16,12 @@ timezone:
 
 title: GNYG # the main title
 
-tagline: "Time go fishing, question?" # it will display as the subtitle
+tagline: |
+  "Need word: to risk self to help another."<br>
+  "Dumb."<br>
+  Grace types b-r-a-v-e.
+
+ # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
