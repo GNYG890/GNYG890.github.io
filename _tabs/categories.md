@@ -2,6 +2,7 @@
 layout: page
 title: Categories
 permalink: /categories/
+order: 2
 ---
 
 페이지 기능 테스트용
