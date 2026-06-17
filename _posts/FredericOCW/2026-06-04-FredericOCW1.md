@@ -72,9 +72,9 @@ We are not going to revise all the mathematics that is needed for these four sub
 # The Structure of This Course
 추가로 Youtube의 첫 강의에서 Frederic 교수님이 그린 두 개의 구조도를 소개한다.  
 
-![FredericOCW_Figure1.1](/assets/img/Figures_FredericOCW_1_1.png)  
+![FredericOCW_Figure1.1](/assets/img/FredericOCW/Figures_FredericOCW_1_1.png)  
 **그림 1.**수학의 가장 큰 분류에서의 세 분야(기하학, 대수학, 해석학)에 대해, 물리학의 각 분야가 수학과 어떻게 연결되어 있는지 확인할 수 있다.  
 
-![FredericOCW_Figure1.2](/assets/img/Figures_FredericOCW_1_2.png)  
+![FredericOCW_Figure1.2](/assets/img/FredericOCW/Figures_FredericOCW_1_2.png)  
 **그림 2.**이 강의의 진행이 어떻게 이루어질지 보여준다.  
 논리학에서부터 시작하여 수학의 탑을 쌓고, 물리학의 각 분야를 다루는 방식을 채택한다.  
