@@ -21,4 +21,4 @@ order: 2
 
 # 취미생활
 
-- [밤하늘 관측기록](GNYG890/GNYG890.github.io/_posts/Observation_4_Nightsky/2026-06-30-Observation_List.md)
+- [밤하늘 관측기록](/_posts/Observation_4_Nightsky/2026-06-30-Observation_List.md)
