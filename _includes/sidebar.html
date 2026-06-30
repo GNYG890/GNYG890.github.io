@@ -16,7 +16,7 @@
   </header>
   <!-- .profile-wrapper -->
 
-  <nav class="flex-column flex-grow-1 w-100 ps-0">
+  <nav class="flex-column flex-grow-1 w-100 ps-0" style="margin-top: 0.5rem;">
     <ul class="nav">
       <!-- the real tabs -->
       {% for tab in site.tabs %}
@@ -112,7 +112,7 @@
       {% endcase %}
 
       {% if url %}
-        
+        <a
           href="{{ url }}"
           aria-label="{{ entry.type }}"
           {% assign link_types = '' %}
