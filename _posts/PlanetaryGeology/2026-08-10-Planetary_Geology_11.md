@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "행성지질학 - 퇴적물과 층서학"
-date: 2026-08-11
+date: 2026-08-10
 categories:
 tags: [행성지질학]
 ---
